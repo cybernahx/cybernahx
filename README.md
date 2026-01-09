@@ -1,38 +1,22 @@
-Hi, I'm Taimur Tariq
+**Hi, I'm Taimur Tariq**
 
 I'm a developer passionate about building projects that solve real problems. Over the past year, I've created 50+ projects ranging from AI chatbots to automation tools.
 
-What I Build
-
-AI & Chatbots
+**AI & Chatbots**
 Intelligent conversational systems for WhatsApp, Discord, Telegram, and web.
-
-Automation & Scripts
+**Automation & Scripts**
 Python tools to automate tasks, process data, and integrate APIs.
-
-Mobile & Web Applications
+**Mobile & Web Applications**
 Cross-platform Flutter apps and modern web apps with clean UI and solid backend logic.
-
-My Approach
 
 I focus on projects that interest me, continuously learning and experimenting to create practical, scalable solutions.
 
-Tech Stack
-
-Languages: Python, Dart, JavaScript
-AI/ML: OpenAI API, Claude API
-Mobile: Flutter
-Web: React, Flask, FastAPI
-Tools: Git, REST APIs, Firebase, PostgreSQL
-
-Current Focus
-
-Advanced AI integrations, intelligent automation systems, and workflow automation platforms.
+**Current Focus**
+Exploring advanced AI integrations, building intelligent automation systems, and expanding into workflow automation platforms like n8n while staying updated with emerging technologies.
 
 Connect
 
 Upwork: https://www.upwork.com/freelancers/~0193d2a51bac6b8ae4
-
 Email: taimurtariqllc@gmail.com
 
 ## 🌐 Socials:
